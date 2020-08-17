@@ -1,0 +1,10 @@
+.alex-photo {
+  width: 100%;
+  border: 1px solid black;
+}
+
+@include media-breakpoint-down(sm) {
+  .alex-photo {
+    margin-bottom: 1em;
+  }
+}

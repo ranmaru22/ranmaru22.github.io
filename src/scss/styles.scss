@@ -1,0 +1,13 @@
+// Import @fonts
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Montserrat:wght@400;700&display=swap");
+
+// Import overrides
+@import "variables";
+
+// Import Bootstrap defaults
+@import "~bootstrap/scss/bootstrap";
+
+// Import custom styles
+@import "navbar";
+@import "headerSection";
+@import "about";
