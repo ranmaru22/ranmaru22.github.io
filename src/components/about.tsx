@@ -8,11 +8,7 @@ const About: React.FC = () => {
         <section id="about">
             <Container className="p-5 text-justify" fluid="md">
                 <Row>
-                    <Col className="text-center">
-                        {/* TODO: Needs a better photo! */}
-                        <img className="alex-photo" src="alex.jpg" alt="Alex Sun" />
-                    </Col>
-                    <Col sm="8">
+                    <Col>
                         <h3>About me</h3>
                         <p>
                             I am a self-taught programmer and web developer currently living in
