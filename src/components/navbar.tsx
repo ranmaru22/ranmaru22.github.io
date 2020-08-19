@@ -4,7 +4,7 @@ import { Navbar, Nav, Container } from "react-bootstrap";
 const NavBar: React.FC = () => {
     return (
         <>
-            <Navbar id="mainNav" variant="dark" bg="dark" sticky="top" expand="lg">
+            <Navbar id="mainNav" variant="dark" bg="dark" sticky="top" expand="lg" collapseOnSelect>
                 <Container fluid>
                     <Navbar.Brand href="#home">Alex Sun</Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
