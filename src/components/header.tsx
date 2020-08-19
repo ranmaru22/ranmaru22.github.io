@@ -7,7 +7,7 @@ const Header = () => {
             <Container id="headerSection" className="p-5" fluid>
                 <Row>
                     <Col className="text-center">
-                        <img className="mb-3" src="avataaars.svg" alt="Alex Sun" />
+                        <img className="mb-3" src="images/avataaars.svg" alt="Alex Sun" />
                     </Col>
                 </Row>
                 <Row>
