@@ -1,5 +1,8 @@
 import React from "react";
 import { Navbar, Nav, Container } from "react-bootstrap";
+import Scrollspy from "react-scrollspy";
+
+const scrollspyItems: ReadonlyArray<string> = ["home", "projects", "about", "contact"];
 
 const NavBar: React.FC = () => {
     return (
@@ -9,12 +12,15 @@ const NavBar: React.FC = () => {
                     <Navbar.Brand href="#home">Alex Sun</Navbar.Brand>
                     <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
-                        <Nav defaultActiveKey="#home" className="ml-auto">
+                        <Scrollspy
+                            className="ml-auto navbar-nav"
+                            items={scrollspyItems}
+                            currentClassName="active">
                             <Nav.Link href="#home">Home</Nav.Link>
                             <Nav.Link href="#projects">Projects</Nav.Link>
                             <Nav.Link href="#about">About Me</Nav.Link>
                             <Nav.Link href="#contact">Contact</Nav.Link>
-                        </Nav>
+                        </Scrollspy>
                     </Navbar.Collapse>
                 </Container>
             </Navbar>
