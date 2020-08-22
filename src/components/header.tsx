@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 
 const Header = () => {
     return (
-        <section id="home">
+        <section id="home" pt-5>
             <Container id="headerSection" className="p-5" fluid>
                 <Row>
                     <Col className="text-center">
