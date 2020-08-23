@@ -10,13 +10,13 @@ import { projects } from "./projectData";
 
 const App: React.FC = () => {
     return (
-        <main id="home">
+        <>
             <NavBar />
             <Header />
             <Projects projects={projects} />
             <About />
             <Footer />
-        </main>
+        </>
     );
 };
 
