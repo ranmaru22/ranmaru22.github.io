@@ -1,14 +1,14 @@
-#headerSection {
+#header-section {
   background-color: $primary;
 }
 
 .subheader {
   font-size: 1.25em;
   text-transform: uppercase;
-  animation: 2.5s subheaderAnim;
+  animation: 2.5s subheader-anim;
 }
 
-@keyframes subheaderAnim {
+@keyframes subheader-anim {
   0% {
     opacity: 0%;
   }

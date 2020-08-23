@@ -4,7 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 const Header = () => {
     return (
         <section id="profile" pt-5>
-            <Container id="headerSection" className="p-5" fluid>
+            <Container id="header-section" className="p-5" fluid>
                 <Row>
                     <Col className="text-center">
                         <img className="mb-3" src="images/avataaars.svg" alt="Alex Sun" />

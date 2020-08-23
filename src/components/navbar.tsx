@@ -6,7 +6,7 @@ const scrollspyItems: ReadonlyArray<string> = ["home", "projects", "about", "con
 
 const NavBar: React.FC = () => (
     <>
-        <Navbar id="mainNav" variant="dark" bg="dark" sticky="top" expand="lg" collapseOnSelect>
+        <Navbar id="main-nav" variant="dark" bg="dark" sticky="top" expand="lg" collapseOnSelect>
             <Container fluid>
                 <Navbar.Brand href="#home">Alex Sun</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />

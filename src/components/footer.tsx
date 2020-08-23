@@ -4,7 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 const Footer: React.FC = () => {
     return (
         <section id="footer">
-            <Container id="footerSection" className="py-2" fluid>
+            <Container id="footer-section" className="py-2" fluid>
                 <Row>
                     <Col className="pt-3 d-flex justify-content-between align-items-center">
                         <p>
