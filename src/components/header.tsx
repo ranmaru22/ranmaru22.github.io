@@ -3,11 +3,11 @@ import { Container, Row, Col } from "react-bootstrap";
 
 const Header = () => {
     return (
-        <section id="profile" pt-5>
+        <section id="home" pt-5>
             <Container id="header-section" className="p-5" fluid>
                 <Row>
-                    <Col className="text-center">
-                        <img className="mb-3" src="images/avataaars.svg" alt="Alex Sun" />
+                    <Col className="text-center pt-3">
+                        <img className="my-3" src="images/avataaars.svg" alt="Alex Sun" />
                     </Col>
                 </Row>
                 <Row>
