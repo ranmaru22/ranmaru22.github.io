@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
                         <p>
                             © 2020 <a href="https://github.com/ranmaru22">ranmaru22</a>
                         </p>
-                        <p>
+                        <p className="text-right">
                             Source code available on{" "}
                             <a href="https://github.com/ranmaru22/ranmaru22.github.io">GitHub</a>.
                         </p>
