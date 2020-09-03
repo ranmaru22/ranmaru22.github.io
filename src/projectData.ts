@@ -2,6 +2,13 @@ import { Project } from "./components/projects";
 
 export const projects: Project[] = [
     {
+        image: "images/minirc.png",
+        alt: "minirc",
+        label: "minirc",
+        description: "A tiny, no-bling-bling IRC client written from scratch in Rust.",
+        link: "https://github.com/ranmaru22/minirc"
+    },
+    {
         image: "images/divibot.png",
         alt: "DiviBot",
         label: "DiviBot",
