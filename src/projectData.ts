@@ -17,6 +17,13 @@ export const projects: Project[] = [
         link: "https://github.com/ranmaru22/divibot"
     },
     {
+        image: "images/marsbar.png",
+        alt: "marsbar",
+        label: "marsbar",
+        description: "A simple Übersicht bar to be used alongside the yabai WM.",
+        link: "https://github.com/ranmaru22/marsbar"
+    },
+    {
         image: "images/fso.svg",
         alt: "Full Stack Open",
         label: "Full Stack Open",
