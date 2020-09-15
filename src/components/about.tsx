@@ -6,7 +6,7 @@ import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 
 const About: React.FC = () => {
     return (
-        <section id="about" className="pt-5 bg-light">
+        <section id="about" className="pt-5 bg-dark text-light">
             <Container className="mt-5 pt-5 text-justify" fluid="md">
                 <Row>
                     <Col>
