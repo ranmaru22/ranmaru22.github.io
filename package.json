@@ -1,52 +1,41 @@
 {
-    "name": "ranmaru22.github.io",
-    "version": "0.2.1",
-    "private": true,
-    "dependencies": {
-        "@fortawesome/fontawesome-svg-core": "^1.2.30",
-        "@fortawesome/free-brands-svg-icons": "^5.14.0",
-        "@fortawesome/free-solid-svg-icons": "^5.14.0",
-        "@fortawesome/react-fontawesome": "^0.1.11",
-        "@testing-library/jest-dom": "^4.2.4",
-        "@testing-library/react": "^9.5.0",
-        "@testing-library/user-event": "^7.2.1",
-        "bootstrap": "^4.5.2",
-        "node-sass": "^4.14.1",
-        "react": "^16.13.1",
-        "react-bootstrap": "^1.3.0",
-        "react-dom": "^16.13.1",
-        "react-scripts": "3.4.3",
-        "react-scrollspy": "^3.4.3",
-        "typescript": "^3.9.7"
-    },
-    "scripts": {
-        "start": "react-scripts start",
-        "build": "react-scripts build && rm -rf docs && mv build docs",
-        "test": "react-scripts test",
-        "eject": "react-scripts eject"
-    },
-    "homepage": "https://ranmaru22.github.io",
-    "eslintConfig": {
-        "extends": "react-app"
-    },
-    "browserslist": {
-        "production": [
-            ">0.2%",
-            "not dead",
-            "not op_mini all"
-        ],
-        "development": [
-            "last 1 chrome version",
-            "last 1 firefox version",
-            "last 1 safari version"
-        ]
-    },
-    "devDependencies": {
-        "@types/jest": "^24.9.1",
-        "@types/node": "^12.12.54",
-        "@types/react": "^16.9.46",
-        "@types/react-bootstrap": "^0.32.22",
-        "@types/react-dom": "^16.9.8",
-        "@types/react-scrollspy": "^3.3.2"
-    }
+  "name": "ranmaru22.github.io",
+  "version": "0.3.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.31",
+    "@fortawesome/free-brands-svg-icons": "^5.15.0",
+    "@fortawesome/free-solid-svg-icons": "^5.15.0",
+    "@fortawesome/vue-fontawesome": "^3.0.0-1",
+    "bootstrap": "^5.0.0-alpha2",
+    "core-js": "^3.6.5",
+    "popper.js": "^1.16.1",
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.33.0",
+    "@typescript-eslint/parser": "^2.33.0",
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-plugin-typescript": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0-0",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "@vue/eslint-config-typescript": "^5.0.2",
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^3.1.3",
+    "eslint-plugin-vue": "^7.0.0-0",
+    "node-sass": "^4.12.0",
+    "prettier": "^1.19.1",
+    "sass-loader": "^8.0.2",
+    "typescript": "~3.9.3"
+  },
+  "_id": "ranmaru22.github.io@0.3.0",
+  "readme": "ERROR: No README data found!"
 }

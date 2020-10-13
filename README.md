@@ -1,7 +1,24 @@
-This is my personal portfolio website, hosted as a GitHub page on [ranmaru22.github.io](https://ranmaru22.github.io).
+# ranmaru22.github.io
 
-## Used technologies
+## Project setup
+```
+npm install
+```
 
--   React
--   TypeScript
--   Bootstrap & bootstrap-react
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

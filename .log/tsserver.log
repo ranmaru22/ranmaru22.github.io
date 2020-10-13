@@ -1,0 +1,271 @@
+Info 0    [0:39:20.758] Starting TS Server
+Info 1    [0:39:20.764] Version: 3.8.3
+Info 2    [0:39:20.765] Arguments: /usr/local/bin/node /usr/local/bin/tsserver --logFile /Users/alex/Documents/Code/ranmaru22.github.io/.log/tsserver.log --logVerbosity info --cancellationPipeName /private/var/folders/xw/508cfzz910s91kxrwf0cl86w0000gn/T/11c96d090417e8f732c314659165514f/tscancellation*
+Info 3    [0:39:20.765] Platform: darwin NodeVersion: 14 CaseSensitive: false
+Info 4    [0:39:20.779] Search path: /Users/alex/Documents/Code/ranmaru22.github.io/src
+Info 5    [0:39:20.780] For info: /Users/alex/Documents/Code/ranmaru22.github.io/src/App.tsx :: Config file name: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 6    [0:39:20.780] Opened configuration file /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 7    [0:39:20.798] Config: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json : {
+ "rootNames": [
+  "/Users/alex/Documents/Code/ranmaru22.github.io/src/App.tsx",
+  "/Users/alex/Documents/Code/ranmaru22.github.io/src/index.tsx",
+  "/Users/alex/Documents/Code/ranmaru22.github.io/src/projectData.ts",
+  "/Users/alex/Documents/Code/ranmaru22.github.io/src/react-app-env.d.ts",
+  "/Users/alex/Documents/Code/ranmaru22.github.io/src/components/about.tsx",
+  "/Users/alex/Documents/Code/ranmaru22.github.io/src/components/footer.tsx",
+  "/Users/alex/Documents/Code/ranmaru22.github.io/src/components/header.tsx",
+  "/Users/alex/Documents/Code/ranmaru22.github.io/src/components/navbar.tsx",
+  "/Users/alex/Documents/Code/ranmaru22.github.io/src/components/projects.tsx"
+ ],
+ "options": {
+  "target": 1,
+  "lib": [
+   "lib.dom.d.ts",
+   "lib.dom.iterable.d.ts",
+   "lib.esnext.d.ts"
+  ],
+  "allowJs": true,
+  "skipLibCheck": true,
+  "esModuleInterop": true,
+  "allowSyntheticDefaultImports": true,
+  "strict": true,
+  "forceConsistentCasingInFileNames": true,
+  "module": 99,
+  "moduleResolution": 2,
+  "resolveJsonModule": true,
+  "isolatedModules": true,
+  "noEmit": true,
+  "jsx": 2,
+  "configFilePath": "/Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json"
+ }
+}
+Info 8    [0:39:20.866] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 9    [0:39:22.935] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 1 structureChanged: true Elapsed: 2068ms
+Info 10   [0:39:22.935] Project '/Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json' (Configured) 
+Info 11   [0:39:22.935] 	Files (382)
+
+Info 12   [0:39:22.935] -----------------------------------------------
+Info 13   [0:39:24.305] DirectoryWatcher:: Triggered with /Users/alex/Documents/Code/ranmaru22.github.io/src/.#App.tsx :: WatchInfo: /Users/alex/Documents/Code/ranmaru22.github.io/src 1 undefined Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json WatchType: Failed Lookup Locations
+Info 14   [0:39:24.305] Elapsed:: 0ms DirectoryWatcher:: Triggered with /Users/alex/Documents/Code/ranmaru22.github.io/src/.#App.tsx :: WatchInfo: /Users/alex/Documents/Code/ranmaru22.github.io/src 1 undefined Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json WatchType: Failed Lookup Locations
+Info 15   [0:39:24.500] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 16   [0:39:24.520] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 2 structureChanged: false Elapsed: 20ms
+Info 17   [0:39:24.520] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 18   [0:39:25.738] DirectoryWatcher:: Triggered with /Users/alex/Documents/Code/ranmaru22.github.io/src/.#App.tsx :: WatchInfo: /Users/alex/Documents/Code/ranmaru22.github.io/src 1 undefined Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json WatchType: Failed Lookup Locations
+Info 19   [0:39:25.738] Elapsed:: 0ms DirectoryWatcher:: Triggered with /Users/alex/Documents/Code/ranmaru22.github.io/src/.#App.tsx :: WatchInfo: /Users/alex/Documents/Code/ranmaru22.github.io/src 1 undefined Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json WatchType: Failed Lookup Locations
+Info 20   [0:39:25.928] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 21   [0:39:25.943] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 3 structureChanged: false Elapsed: 15ms
+Info 22   [0:39:25.943] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 23   [0:39:32.579] DirectoryWatcher:: Triggered with /Users/alex/Documents/Code/ranmaru22.github.io/src/.#App.tsx :: WatchInfo: /Users/alex/Documents/Code/ranmaru22.github.io/src 1 undefined Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json WatchType: Failed Lookup Locations
+Info 24   [0:39:32.579] Elapsed:: 0ms DirectoryWatcher:: Triggered with /Users/alex/Documents/Code/ranmaru22.github.io/src/.#App.tsx :: WatchInfo: /Users/alex/Documents/Code/ranmaru22.github.io/src 1 undefined Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json WatchType: Failed Lookup Locations
+Info 25   [0:39:32.777] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 26   [0:39:32.795] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 4 structureChanged: false Elapsed: 18ms
+Info 27   [0:39:32.795] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 28   [0:39:33.626] DirectoryWatcher:: Triggered with /Users/alex/Documents/Code/ranmaru22.github.io/src/.#App.tsx :: WatchInfo: /Users/alex/Documents/Code/ranmaru22.github.io/src 1 undefined Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json WatchType: Failed Lookup Locations
+Info 29   [0:39:33.626] Elapsed:: 0ms DirectoryWatcher:: Triggered with /Users/alex/Documents/Code/ranmaru22.github.io/src/.#App.tsx :: WatchInfo: /Users/alex/Documents/Code/ranmaru22.github.io/src 1 undefined Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json WatchType: Failed Lookup Locations
+Info 30   [0:39:33.825] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 31   [0:39:33.842] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 5 structureChanged: false Elapsed: 17ms
+Info 32   [0:39:33.842] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 33   [0:39:35.896] DirectoryWatcher:: Triggered with /Users/alex/Documents/Code/ranmaru22.github.io/src/.#App.tsx :: WatchInfo: /Users/alex/Documents/Code/ranmaru22.github.io/src 1 undefined Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json WatchType: Failed Lookup Locations
+Info 34   [0:39:35.897] Elapsed:: 1ms DirectoryWatcher:: Triggered with /Users/alex/Documents/Code/ranmaru22.github.io/src/.#App.tsx :: WatchInfo: /Users/alex/Documents/Code/ranmaru22.github.io/src 1 undefined Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json WatchType: Failed Lookup Locations
+Info 35   [0:39:36.91] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 36   [0:39:36.108] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 6 structureChanged: false Elapsed: 17ms
+Info 37   [0:39:36.108] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 38   [0:39:36.655] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 39   [0:39:36.671] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 7 structureChanged: false Elapsed: 16ms
+Info 40   [0:39:36.671] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 41   [0:39:37.296] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 42   [0:39:37.322] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 8 structureChanged: false Elapsed: 25ms
+Info 43   [0:39:37.322] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 44   [0:39:37.322] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 45   [0:39:37.335] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 9 structureChanged: false Elapsed: 13ms
+Info 46   [0:39:37.335] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 47   [0:39:37.784] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 48   [0:39:37.799] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 10 structureChanged: false Elapsed: 15ms
+Info 49   [0:39:37.799] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 50   [0:39:38.41] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 51   [0:39:38.53] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 11 structureChanged: false Elapsed: 12ms
+Info 52   [0:39:38.53] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 53   [0:39:38.861] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 54   [0:39:38.880] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 12 structureChanged: false Elapsed: 18ms
+Info 55   [0:39:38.880] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 56   [0:39:39.944] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 57   [0:39:39.964] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 13 structureChanged: false Elapsed: 20ms
+Info 58   [0:39:39.964] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 59   [0:39:39.966] getCompletionData: Get current token: 0
+Info 60   [0:39:39.966] getCompletionData: Is inside comment: 0
+Info 61   [0:39:39.966] getCompletionData: Get previous token 1: 0
+Info 62   [0:39:39.966] getCompletionData: Get previous token 2: 0
+Info 63   [0:39:39.966] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 64   [0:39:39.971] getSymbolsFromOtherSourceFileExports: Recomputing list
+Info 65   [0:39:40.6] forEachExternalModuleToImportFrom: filtered out 73 modules by package.json contents
+Info 66   [0:39:40.6] getSymbolsFromOtherSourceFileExports: 35
+Info 67   [0:39:40.17] getCompletionData: Semantic work: 51
+Info 68   [0:39:40.31] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 13
+Info 69   [0:39:40.782] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 70   [0:39:40.800] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 14 structureChanged: false Elapsed: 18ms
+Info 71   [0:39:40.800] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 72   [0:39:41.957] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 73   [0:39:41.979] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 15 structureChanged: false Elapsed: 22ms
+Info 74   [0:39:41.979] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 75   [0:39:41.980] getCompletionData: Get current token: 1
+Info 76   [0:39:41.980] getCompletionData: Is inside comment: 0
+Info 77   [0:39:41.980] getCompletionData: Get previous token 1: 0
+Info 78   [0:39:41.980] getCompletionData: Get previous token 2: 0
+Info 79   [0:39:41.980] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 80   [0:39:41.984] getSymbolsFromOtherSourceFileExports: Using cached list
+Info 81   [0:39:41.995] getCompletionData: Semantic work: 15
+Info 82   [0:39:42.10] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 15
+Info 83   [0:39:42.761] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 84   [0:39:42.778] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 16 structureChanged: false Elapsed: 16ms
+Info 85   [0:39:42.778] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 86   [0:39:43.275] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 87   [0:39:43.363] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 17 structureChanged: true Elapsed: 88ms
+Info 88   [0:39:43.363] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 89   [0:39:46.848] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 90   [0:39:46.928] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 18 structureChanged: true Elapsed: 80ms
+Info 91   [0:39:46.928] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 92   [0:39:48.837] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 93   [0:39:48.925] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 19 structureChanged: true Elapsed: 88ms
+Info 94   [0:39:48.925] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 95   [0:39:51.489] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 96   [0:39:51.509] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 20 structureChanged: false Elapsed: 20ms
+Info 97   [0:39:51.509] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 98   [0:39:52.492] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 99   [0:39:52.510] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 21 structureChanged: false Elapsed: 18ms
+Info 100  [0:39:52.510] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 101  [0:39:56.450] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 102  [0:39:56.461] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 22 structureChanged: false Elapsed: 11ms
+Info 103  [0:39:56.461] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 104  [0:39:57.302] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 105  [0:39:57.329] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 23 structureChanged: false Elapsed: 27ms
+Info 106  [0:39:57.329] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 107  [0:39:58.313] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 108  [0:39:58.335] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 24 structureChanged: false Elapsed: 22ms
+Info 109  [0:39:58.335] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 110  [0:39:58.370] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 111  [0:39:58.382] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 25 structureChanged: false Elapsed: 12ms
+Info 112  [0:39:58.382] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 113  [0:39:58.575] getCompletionData: Get current token: 0
+Info 114  [0:39:58.575] getCompletionData: Is inside comment: 0
+Info 115  [0:39:58.575] getCompletionData: Get previous token 1: 0
+Info 116  [0:39:58.575] getCompletionData: Get previous token 2: 0
+Info 117  [0:39:58.575] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 118  [0:39:58.576] getCompletionData: Semantic work: 0
+Info 119  [0:39:58.578] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0
+Info 120  [0:39:59.389] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 121  [0:39:59.405] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 26 structureChanged: false Elapsed: 16ms
+Info 122  [0:39:59.405] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 123  [0:39:59.405] getCompletionData: Get current token: 0
+Info 124  [0:39:59.406] getCompletionData: Is inside comment: 1
+Info 125  [0:39:59.406] getCompletionData: Get previous token 1: 0
+Info 126  [0:39:59.406] getCompletionData: Get previous token 2: 0
+Info 127  [0:39:59.406] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 128  [0:39:59.406] getCompletionData: Semantic work: 0
+Info 129  [0:39:59.406] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0
+Info 130  [0:39:59.756] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 131  [0:39:59.772] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 27 structureChanged: false Elapsed: 16ms
+Info 132  [0:39:59.772] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 133  [0:40:0.634] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 134  [0:40:0.650] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 28 structureChanged: false Elapsed: 16ms
+Info 135  [0:40:0.650] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 136  [0:40:9.591] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 137  [0:40:9.604] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 29 structureChanged: false Elapsed: 13ms
+Info 138  [0:40:9.604] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 139  [0:40:10.525] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 140  [0:40:10.535] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 30 structureChanged: false Elapsed: 10ms
+Info 141  [0:40:10.535] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 142  [0:40:10.536] getCompletionData: Get current token: 0
+Info 143  [0:40:10.536] getCompletionData: Is inside comment: 0
+Info 144  [0:40:10.536] getCompletionData: Get previous token 1: 0
+Info 145  [0:40:10.536] getCompletionData: Get previous token 2: 0
+Info 146  [0:40:10.536] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 147  [0:40:10.536] getCompletionData: Semantic work: 0
+Info 148  [0:40:10.536] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0
+Info 149  [0:40:11.50] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 150  [0:40:11.67] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 31 structureChanged: false Elapsed: 17ms
+Info 151  [0:40:11.67] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 152  [0:40:11.851] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 153  [0:40:11.866] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 32 structureChanged: false Elapsed: 15ms
+Info 154  [0:40:11.866] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 155  [0:40:11.897] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 156  [0:40:11.906] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 33 structureChanged: false Elapsed: 9ms
+Info 157  [0:40:11.906] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 158  [0:40:12.303] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 159  [0:40:12.315] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 34 structureChanged: false Elapsed: 12ms
+Info 160  [0:40:12.315] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 161  [0:40:12.315] getCompletionData: Get current token: 0
+Info 162  [0:40:12.316] getCompletionData: Is inside comment: 1
+Info 163  [0:40:12.316] getCompletionData: Get previous token 1: 0
+Info 164  [0:40:12.316] getCompletionData: Get previous token 2: 0
+Info 165  [0:40:12.316] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 166  [0:40:12.316] getCompletionData: Semantic work: 0
+Info 167  [0:40:12.316] getCompletionsAtPosition: getCompletionEntriesFromSymbols: 0
+Info 168  [0:40:13.285] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 169  [0:40:13.297] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 35 structureChanged: false Elapsed: 12ms
+Info 170  [0:40:13.297] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 171  [0:40:13.298] getCompletionData: Get current token: 0
+Info 172  [0:40:13.298] getCompletionData: Is inside comment: 0
+Info 173  [0:40:13.298] getCompletionData: Get previous token 1: 0
+Info 174  [0:40:13.298] getCompletionData: Get previous token 2: 0
+Info 175  [0:40:13.298] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 176  [0:40:13.298] getCompletionData: Semantic work: 0
+Info 177  [0:40:19.271] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 178  [0:40:19.342] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 36 structureChanged: true Elapsed: 71ms
+Info 179  [0:40:19.342] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 180  [0:40:19.854] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 181  [0:40:19.871] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 37 structureChanged: false Elapsed: 17ms
+Info 182  [0:40:19.871] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 183  [0:40:21.747] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 184  [0:40:21.764] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 38 structureChanged: false Elapsed: 17ms
+Info 185  [0:40:21.764] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 186  [0:40:22.246] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 187  [0:40:22.265] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 39 structureChanged: false Elapsed: 19ms
+Info 188  [0:40:22.265] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 189  [0:40:23.256] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 190  [0:40:23.275] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 40 structureChanged: false Elapsed: 19ms
+Info 191  [0:40:23.275] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 192  [0:40:23.628] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 193  [0:40:23.644] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 41 structureChanged: false Elapsed: 16ms
+Info 194  [0:40:23.644] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 195  [0:40:23.644] getCompletionData: Get current token: 0
+Info 196  [0:40:23.645] getCompletionData: Is inside comment: 0
+Info 197  [0:40:23.645] getCompletionData: Get previous token 1: 0
+Info 198  [0:40:23.645] getCompletionData: Get previous token 2: 0
+Info 199  [0:40:23.645] getCompletionsAtPosition: isCompletionListBlocker: 0
+Info 200  [0:40:23.645] Returning an empty list because completion was requested in an invalid position.
+Info 201  [0:40:24.99] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 202  [0:40:24.115] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 42 structureChanged: false Elapsed: 16ms
+Info 203  [0:40:24.115] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 204  [0:40:24.115] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 205  [0:40:24.129] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 43 structureChanged: false Elapsed: 14ms
+Info 206  [0:40:24.129] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 207  [0:40:24.857] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 208  [0:40:24.871] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 44 structureChanged: false Elapsed: 14ms
+Info 209  [0:40:24.871] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 210  [0:40:25.305] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 211  [0:40:25.320] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 45 structureChanged: false Elapsed: 14ms
+Info 212  [0:40:25.321] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 213  [0:40:25.575] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 214  [0:40:25.589] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 46 structureChanged: false Elapsed: 14ms
+Info 215  [0:40:25.589] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 216  [0:40:26.717] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 217  [0:40:26.792] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 47 structureChanged: true Elapsed: 75ms
+Info 218  [0:40:26.792] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 219  [0:40:27.149] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 220  [0:40:27.220] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 48 structureChanged: true Elapsed: 71ms
+Info 221  [0:40:27.220] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 222  [0:40:28.288] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 223  [0:40:28.302] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 49 structureChanged: false Elapsed: 14ms
+Info 224  [0:40:28.302] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 225  [0:40:34.87] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 226  [0:40:34.171] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 50 structureChanged: true Elapsed: 84ms
+Info 227  [0:40:34.171] Different program with same set of files:: oldProgram.structureIsReused:: 1
+Info 228  [0:40:34.552] Starting updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 229  [0:40:34.567] Finishing updateGraphWorker: Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json Version: 51 structureChanged: false Elapsed: 15ms
+Info 230  [0:40:34.567] Different program with same set of files:: oldProgram.structureIsReused:: 2
+Info 231  [0:40:35.306] DirectoryWatcher:: Triggered with /Users/alex/Documents/Code/ranmaru22.github.io/src/.#App.tsx :: WatchInfo: /Users/alex/Documents/Code/ranmaru22.github.io/src 1 undefined Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json WatchType: Failed Lookup Locations
+Info 232  [0:40:35.306] Elapsed:: 0ms DirectoryWatcher:: Triggered with /Users/alex/Documents/Code/ranmaru22.github.io/src/.#App.tsx :: WatchInfo: /Users/alex/Documents/Code/ranmaru22.github.io/src 1 undefined Project: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json WatchType: Failed Lookup Locations
+Info 233  [0:40:55.876] Search path: /Users/alex/Documents/Code/ranmaru22.github.io/src/components
+Info 234  [0:40:55.877] For info: /Users/alex/Documents/Code/ranmaru22.github.io/src/components/projects.tsx :: Config file name: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json
+Info 235  [0:41:18.537] Search path: /Users/alex/Documents/Code/ranmaru22.github.io/src
+Info 236  [0:41:18.537] For info: /Users/alex/Documents/Code/ranmaru22.github.io/src/projectData.ts :: Config file name: /Users/alex/Documents/Code/ranmaru22.github.io/tsconfig.json

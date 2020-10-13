@@ -5,7 +5,7 @@
 @import "variables";
 
 // Import Bootstrap defaults
-@import "~bootstrap/scss/bootstrap";
+@import "node_modules/bootstrap/scss/bootstrap";
 
 // Import custom styles
 @import "navbar";
@@ -23,11 +23,11 @@ h3 {
     padding-top: .25rem;
     border-bottom: 3px solid $primary;
     @include media-breakpoint-down(md) {
-      width: 50%; 
+      width: 50%;
     }
     @include media-breakpoint-down(xs) {
       margin: 0 auto;
-      width: 100%; 
+      width: 100%;
     }
   }
 }
